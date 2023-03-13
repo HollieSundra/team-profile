@@ -1,0 +1,27 @@
+{
+  "name": "existing-team",
+  "version": "1.0.0",
+  "description": "TeamProfile",
+  "main": "index.js",
+  "directions": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest --verbose test/*"
+  },
+  "repository": {
+    "type": "",
+    "url": "git+https://github.com/HollieSundra/team-profile.git"
+  },
+  "author": "",
+  "license": "",
+  "homepage": "https://github.com/HollieSundra/team-profile",
+  "dependencies": {
+    "inquirer": "^8.2.4"
+  },
+  "devDependencies": {
+    "jest": "^29.5.0"
+  }
+}
+
