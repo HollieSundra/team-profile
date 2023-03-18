@@ -43,6 +43,12 @@ THEN I exit the application, and the HTML is generated
 ## Screenshots and Walkthrough Video
 
 
+![teamprofile_screenshot](https://user-images.githubusercontent.com/106099150/226141458-35df1337-0d7f-4929-925b-6891e3aff394.png)
+
+
+
+[TeamProfile.webm](https://user-images.githubusercontent.com/106099150/226141469-69a04182-a072-4d35-b6cf-bd88da191398.webm)
+
 
 ## Credits
 
