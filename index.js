@@ -171,7 +171,7 @@ function promptCreateTeam() {
             type: 'list',
             name: 'memberType',
             message: 'Select a team member to add:',
-            choice: ['Engineer', 'Intern', 'Manager'],
+            choices: ['Engineer', 'Intern', 'Manager'],
         },
      ])
      .then((response) => {
